@@ -20,9 +20,17 @@
       "id": 3,
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
+      "price": "24.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "name": "Pizza de margarina",
+      "price": "29.90",
+      "description": "Molho de margarina derretida ao azeite e pequenos pedaços de gotas de chocolate.",
+      "available": true,
+      "id": 4
     }
   ]
 }
